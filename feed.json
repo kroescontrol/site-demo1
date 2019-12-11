@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "site demo 3",
+    "description": "",
+    "home_page_url": "https://demo1.kroescontrol.nl",
+    "feed_url": "https://demo1.kroescontrol.nl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mr.Demo"
+    },
+    "items": [
+        {
+            "id": "https://demo1.kroescontrol.nl/testing-yo.html",
+            "url": "https://demo1.kroescontrol.nl/testing-yo.html",
+            "title": "testing yo",
+            "summary": "\\o/",
+            "content_html": "\\o/",
+            "author": {
+                "name": "Mr.Demo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-07T09:15:47+01:00",
+            "date_modified": "2019-12-07T09:15:47+01:00"
+        }
+    ]
+}
