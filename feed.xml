@@ -3,32 +3,10 @@
     <title>site demo 3</title>
     <link href="http://demo1.kroescontrol.nl/feed.xml" rel="self" />
     <link href="http://demo1.kroescontrol.nl" />
-    <updated>2019-12-12T09:07:54+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Mr.Demo</name>
     </author>
     <id>http://demo1.kroescontrol.nl</id>
 
-    <entry>
-        <title>testing yo</title>
-        <author>
-            <name>Mr.Demo</name>
-        </author>
-        <link href="http://demo1.kroescontrol.nl/testing-yo.html"/>
-        <id>http://demo1.kroescontrol.nl/testing-yo.html</id>
-
-        <updated>2019-12-11T23:47:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://demo1.kroescontrol.nl/media/posts/1/IMG_20191208_131604.jpg" alt="" />
-                    \o/
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://demo1.kroescontrol.nl/media/posts/1/IMG_20191208_131604.jpg" alt="" />
-                \o/
-            ]]>
-        </content>
-    </entry>
 </feed>
