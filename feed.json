@@ -5,8 +5,9 @@
     "home_page_url": "http://demo1.kroescontrol.nl",
     "feed_url": "http://demo1.kroescontrol.nl/feed.json",
     "user_comment": "",
+    "icon": "http://demo1.kroescontrol.nl/media/website/sitelogo.png",
     "author": {
-        "name": "Serge Kroes"
+        "name": "Pinella Santamaria"
     },
     "items": [
     ]
